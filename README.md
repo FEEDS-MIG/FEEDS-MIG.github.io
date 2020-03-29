@@ -27,9 +27,8 @@ Drawing on the scale division method of KITTI and WIDER FACE datasets, the two c
 
 [FEEDS test annotations](https://github.com/FEEDS-MIG/FEEDS-MIG.github.io/blob/master/file/FEEDS_coco_test.json)
 
+## Benchmark
+To be continue..
+
 ## Reference
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FEEDS-MIG/FEEDS-MIG.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+To be continue..
