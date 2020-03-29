@@ -1,15 +1,3 @@
-.markdown-body img { 
-  /* 图片居中 */
-  clear: both;
-  margin: 0 auto;
-  display: block;
-
-  /* 添加图片阴影 */
-  box-shadow:0px 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
-  webkit-box-shadow:0px 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
-  moz-box-shadow:0px 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
-  o-box-shadow:0px 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
-}
 ## THU MIG lab's FEEDS Dataset
 **FEEDS**(Face pEdestrian dEtection DataSet) is a data set specially used for pedestrian and face detection organized by the Multimedia Intelligent Group of School of Software，Tsinghua University. We extract part of the data from Pedestrian re-identification dataset such as PRW, CUHK and pedestrian detection data sets such as WIDER pedestrian, CrowdHuman, then we complete the pedestrian and face annotations. The figure below shows the number of pictures extracted from each data set.
 
