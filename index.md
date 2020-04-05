@@ -1,5 +1,5 @@
-## THU MIG's FEEDS Dataset
-**FEEDS**(Face pEdestrian dEtection DataSet) is a data set specially used for pedestrian and face detection organized by the Multimedia Intelligent Group of School of Software，Tsinghua University. We extract part of the data from Pedestrian re-identification dataset such as PRW, CUHK and pedestrian detection data sets such as WIDER pedestrian, CrowdHuman, then we complete the pedestrian and face annotations. The figure below shows the number of pictures extracted from each data set.
+## Description
+**FEEDS**(Face pEdestrian dEtection DataSet) is a data set specially used for pedestrian and face detection organized by the Multimedia Intelligent Group of School of Software, Tsinghua University. We extract part of the data from Pedestrian re-identification dataset such as PRW, CUHK and pedestrian detection data sets such as WIDER pedestrian, CrowdHuman, then we complete the pedestrian and face annotations. The figure below shows the number of pictures extracted from each data set.
 
 ![Source map of different datasets in different partition sets](https://raw.githubusercontent.com/FEEDS-MIG/FEEDS-MIG.github.io/master/images/source_map.PNG)
 
